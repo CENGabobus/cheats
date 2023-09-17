@@ -10,7 +10,7 @@ local args = {
         ["Craft"] = {}
     }
 }
-
+wait(0.5)
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args))
 local args2 = {
     [1] = {
@@ -24,7 +24,7 @@ local args2 = {
         ["Craft"] = {}
     }
 }
-
+wait(0.5)
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args2))
 local args3 = {
     [1] = {
@@ -38,7 +38,7 @@ local args3 = {
         ["Craft"] = {}
     }
 }
-
+wait(0.5)
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args3))
 local args4 = {
     [1] = {
@@ -52,7 +52,7 @@ local args4 = {
         ["Craft"] = {}
     }
 }
-
+wait(0.5)
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args4))
 local args5 = {
     [1] = {
@@ -66,7 +66,7 @@ local args5 = {
         ["Craft"] = {}
     }
 }
-
+wait(0.5)
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args5))
 local args6 = {
     [1] = {
@@ -80,7 +80,7 @@ local args6 = {
         ["Craft"] = {}
     }
 }
-
+wait(0.5)
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args6))
 local args7 = {
     [1] = {
@@ -94,7 +94,7 @@ local args7 = {
         ["Craft"] = {}
     }
 }
-
+wait(0.5)
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args7))
 local args8 = {
     [1] = {
@@ -108,7 +108,7 @@ local args8 = {
         ["Craft"] = {}
     }
 }
-
+wait(0.5)
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args8))
 local args9 = {
     [1] = {
@@ -122,7 +122,7 @@ local args9 = {
         ["Craft"] = {}
     }
 }
-
+wait(0.5)
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args9))
 local args10 = {
     [1] = {
@@ -136,7 +136,7 @@ local args10 = {
         ["Craft"] = {}
     }
 }
-
+wait(0.5)
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args10))
 local args11 = {
     [1] = {
@@ -150,7 +150,7 @@ local args11 = {
         ["Craft"] = {}
     }
 }
-
+wait(0.5)
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args11))
 local args10 = {
     [1] = {
@@ -164,7 +164,7 @@ local args10 = {
         ["Craft"] = {}
     }
 }
-
+wait(0.5)
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args12))
 local args13 = {
     [1] = {
@@ -178,7 +178,7 @@ local args13 = {
         ["Craft"] = {}
     }
 }
-
+wait(0.5)
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args13))
 local args14 = {
     [1] = {
@@ -191,7 +191,7 @@ local args14 = {
         ["Craft"] = {}
     }
 }
-
+wait(0.5)
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args14))
 local args15 = {
     [1] = {
@@ -204,7 +204,7 @@ local args15 = {
         ["Craft"] = {}
     }
 }
-
+wait(0.5)
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args15))
 local args16 = {
     [1] = {
@@ -217,7 +217,7 @@ local args16 = {
         ["Craft"] = {}
     }
 }
-
+wait(0.5)
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args16))
 local args17 = {
     [1] = {
@@ -230,7 +230,7 @@ local args17 = {
         ["Craft"] = {}
     }
 }
-
+wait(0.5)
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args17))
 local args18 = {
     [1] = {
@@ -243,5 +243,5 @@ local args18 = {
         ["Craft"] = {}
     }
 }
-
+wait(0.5)
 game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args18))
