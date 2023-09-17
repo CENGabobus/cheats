@@ -1,0 +1,247 @@
+local args = {
+    [1] = {
+        ["Item"] = "Treat",
+        ["Type"] = "Inventory Item",
+        ["Description"] = "\nGrants 20 Bonds for Bee.\nx1\n",
+        ["Category"] = "Inventory",
+        ["Amount"] = 99999999999,
+        ["CraftNum"] = 0,
+        ["Cost"] = -10000000,
+        ["Craft"] = {}
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args))
+local args2 = {
+    [1] = {
+        ["Item"] = "Seed",
+        ["Type"] = "Inventory Item",
+        ["Description"] = "\nGrants 20 Bonds for Bee.\nx1\n",
+        ["Category"] = "Inventory",
+        ["Amount"] = 1000000,
+        ["CraftNum"] = 0,
+        ["Cost"] = 0,
+        ["Craft"] = {}
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args2))
+local args3 = {
+    [1] = {
+        ["Item"] = "Blueberry",
+        ["Type"] = "Inventory Item",
+        ["Description"] = "\nGrants 20 Bonds for Bee.\nx1\n",
+        ["Category"] = "Inventory",
+        ["Amount"] = 1000000,
+        ["CraftNum"] = 0,
+        ["Cost"] = 0,
+        ["Craft"] = {}
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args3))
+local args4 = {
+    [1] = {
+        ["Item"] = "Strawberry",
+        ["Type"] = "Inventory Item",
+        ["Description"] = "\nGrants 20 Bonds for Bee.\nx1\n",
+        ["Category"] = "Inventory",
+        ["Amount"] = 1000000,
+        ["CraftNum"] = 0,
+        ["Cost"] = 0,
+        ["Craft"] = {}
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args4))
+local args5 = {
+    [1] = {
+        ["Item"] = "Strawberry",
+        ["Type"] = "Inventory Item",
+        ["Description"] = "\nGrants 20 Bonds for Bee.\nx1\n",
+        ["Category"] = "Inventory",
+        ["Amount"] = 1000000,
+        ["CraftNum"] = 0,
+        ["Cost"] = 0,
+        ["Craft"] = {}
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args5))
+local args6 = {
+    [1] = {
+        ["Item"] = "Energy Drink",
+        ["Type"] = "Inventory Item",
+        ["Description"] = "\nGrants 20 Bonds for Bee.\nx1\n",
+        ["Category"] = "Inventory",
+        ["Amount"] = 1000000,
+        ["CraftNum"] = 0,
+        ["Cost"] = 0,
+        ["Craft"] = {}
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args6))
+local args7 = {
+    [1] = {
+        ["Item"] = "Basic egg",
+        ["Type"] = "Inventory Item",
+        ["Description"] = "\nGrants 20 Bonds for Bee.\nx1\n",
+        ["Category"] = "Inventory",
+        ["Amount"] = 999999,
+        ["CraftNum"] = 0,
+        ["Cost"] = 0,
+        ["Craft"] = {}
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args7))
+local args8 = {
+    [1] = {
+        ["Item"] = "Silver Egg",
+        ["Type"] = "Inventory Item",
+        ["Description"] = "\nGrants 20 Bonds for Bee.\nx1\n",
+        ["Category"] = "Inventory",
+        ["Amount"] = 1000000,
+        ["CraftNum"] = 0,
+        ["Cost"] = 0,
+        ["Craft"] = {}
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args8))
+local args9 = {
+    [1] = {
+        ["Item"] = "Golden Egg",
+        ["Type"] = "Inventory Item",
+        ["Description"] = "\nGrants 20 Bonds for Bee.\nx1\n",
+        ["Category"] = "Inventory",
+        ["Amount"] = 1000000,
+        ["CraftNum"] = 0,
+        ["Cost"] = 0,
+        ["Craft"] = {}
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args9))
+local args10 = {
+    [1] = {
+        ["Item"] = "Diamond Egg",
+        ["Type"] = "Inventory Item",
+        ["Description"] = "\nGrants 20 Bonds for Bee.\nx1\n",
+        ["Category"] = "Inventory",
+        ["Amount"] = 1000000,
+        ["CraftNum"] = 0,
+        ["Cost"] = 0,
+        ["Craft"] = {}
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args10))
+local args11 = {
+    [1] = {
+        ["Item"] = "Sprout",
+        ["Type"] = "Inventory Item",
+        ["Description"] = "\nGrants 20 Bonds for Bee.\nx1\n",
+        ["Category"] = "Inventory",
+        ["Amount"] = 1000000,
+        ["CraftNum"] = 0,
+        ["Cost"] = 0,
+        ["Craft"] = {}
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args11))
+local args10 = {
+    [1] = {
+        ["Item"] = "Bear Bee Egg",
+        ["Type"] = "Inventory Item",
+        ["Description"] = "\nGrants 20 Bonds for Bee.\nx1\n",
+        ["Category"] = "Inventory",
+        ["Amount"] = 1000000,
+        ["CraftNum"] = 0,
+        ["Cost"] = 0,
+        ["Craft"] = {}
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args12))
+local args13 = {
+    [1] = {
+        ["Item"] = "Ticket",
+        ["Type"] = "Inventory Item",
+        ["Description"] = "\nGrants 20 Bonds for Bee.\nx1\n",
+        ["Category"] = "Inventory",
+        ["Amount"] = 1000000,
+        ["CraftNum"] = 0,
+        ["Cost"] = 0,
+        ["Craft"] = {}
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args13))
+local args14 = {
+    [1] = {
+        ["Type"] = "Bag",
+        ["Item"] = "United Bag",
+        ["Category"] = "Equipment",
+        ["Description"] = "\nContains 2.500 Pollen \n\nloses 25 pollen every 120 sec.",
+        ["CraftNum"] = 0,
+        ["Cost"] = 0,
+        ["Craft"] = {}
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args14))
+local args15 = {
+    [1] = {
+        ["Type"] = "Tool",
+        ["Item"] = "Honey Cutter",
+        ["Category"] = "Equipment",
+        ["Description"] = "\nContains 2.500 Pollen \n\nloses 25 pollen every 120 sec.",
+        ["CraftNum"] = 0,
+        ["Cost"] = 0,
+        ["Craft"] = {}
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args15))
+local args16 = {
+    [1] = {
+        ["Type"] = "Boot",
+        ["Item"] = "United",
+        ["Category"] = "Equipment",
+        ["Description"] = "\nContains 2.500 Pollen \n\nloses 25 pollen every 120 sec.",
+        ["CraftNum"] = 0,
+        ["Cost"] = 0,
+        ["Craft"] = {}
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args16))
+local args17 = {
+    [1] = {
+        ["Type"] = "Glider",
+        ["Item"] = "Aero Wings",
+        ["Category"] = "Equipment",
+        ["Description"] = "\nContains 2.500 Pollen \n\nloses 25 pollen every 120 sec.",
+        ["CraftNum"] = 0,
+        ["Cost"] = 0,
+        ["Craft"] = {}
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args17))
+local args18 = {
+    [1] = {
+        ["Type"] = "Hat",
+        ["Item"] = "Ladybug's Doll Mask",
+        ["Category"] = "Equipment",
+        ["Description"] = "\nContains 2.500 Pollen \n\nloses 25 pollen every 120 sec.",
+        ["CraftNum"] = 0,
+        ["Cost"] = 0,
+        ["Craft"] = {}
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Shop"):FireServer(unpack(args18))
